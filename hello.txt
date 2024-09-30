@@ -1,0 +1,7 @@
+My name is Angélique. 
+
+My background is in electronics and microelectronics. 
+I have worked with data and used Excel to analyze the data with basics in statistics. 
+I do not have a background in data analysis and data science. 
+I have knowledge in c, c++ and VHDL coding.
+
